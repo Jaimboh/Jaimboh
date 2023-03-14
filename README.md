@@ -3,7 +3,7 @@
 My name is Tom Odhiambo
 ====================================================================================================================================
 
-Machine Learning Engineer and Data scientist
+Machine Learning Engineer,Natural Language Processing Engineer and Data scientist
 --------------------------------------------
 
 I have been learning how to use tools like pandas,numpy matplotlib,scikit-learn and deep learning to create models that are revolutionary in the tech world at the moment.
