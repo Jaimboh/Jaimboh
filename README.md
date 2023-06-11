@@ -28,9 +28,11 @@ I am a Machine Learning Engineer, Natural Language Processing Engineer, and Data
 I have worked on a diverse range of projects that showcase my skills and problem-solving abilities. Here are a few notable examples:
 
 - **An End-to-End Project on Unemployment Analysis**📊
+
   This project focuses on analyzing unemployment data and deriving valuable insights from it. I utilized various machine learning techniques and data visualization tools to gain a comprehensive understanding of the unemployment trends. You can find the project [here](https://github.com/Jaimboh/Projects/blob/main/An_end_to_end_project_on_Unemployment_analysis.ipynb).
 
 - **Named Entity Recognition (NER) Project**🔍
+
   In this project, I implemented a named entity recognition system using state-of-the-art NLP techniques. By leveraging deep learning models, I successfully extracted and classified entities from unstructured text data. You can find the project [here](https://github.com/Jaimboh/Projects/blob/main/Named_Entity_Recognition_(NER)_project.ipynb).
 
 For more of my projects, you can visit [my GitHub repository](https://github.com/Jaimboh?tab=repositories). Each project represents a unique challenge and demonstrates my expertise in machine learning and data science.
