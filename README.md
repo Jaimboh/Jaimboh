@@ -18,6 +18,10 @@ I am a Machine Learning Engineer, Natural Language Processing Engineer, and Data
 - Scikit-learn
 - Deep Learning
 - Prompt Engineering
+- Power BI
+- AWS (Amazon Web Services)
+- Azure (Microsoft Azure)
+- Tensorflow
 
 ## Contact Me
 
