@@ -1,55 +1,34 @@
-### Hi there! 👋
+<h1 align="center">Hi 👋, I'm Tom Odhiambo</h1>
+<h3 align="center">I am a dedicated Machine Learning Engineer, Natural Language Processing Engineer, and Data Scientist located in Kenya 🌍. Proficient in Python with a robust grasp of diverse machine learning algorithms and techniques, I specialize in crafting inventive models that propel technological progress.</h3>
 
-My name is Tom Odhiambo, and I'm passionate about leveraging machine learning and data science to solve complex problems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimboh&label=Profile%20views&color=0e75b6&style=flat" alt="jaimboh" /> </p>
 
-## About Me
+- 🔭 I’m currently working on [AI applications](https://github.com/Jaimboh?tab=repositories)
 
-I am a Machine Learning Engineer, Natural Language Processing Engineer, and Data Scientist based in Kenya 🌍. With a strong foundation in Python and a deep understanding of various machine learning algorithms and techniques, I have developed expertise in creating innovative models that drive technological advancements.
+- 👯 I’m looking to collaborate on **AI projects**
 
-## Skills
+- 👨‍💻 All of my projects are available at [https://github.com/Jaimboh?tab=repositories](https://github.com/Jaimboh?tab=repositories)
 
-- Machine Learning
-- Natural Language Processing
-- Data Analysis
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Deep Learning
-- Prompt Engineering
-- Power BI
-- AWS (Amazon Web Services)
-- Azure (Microsoft Azure)
-- Tensorflow
+- 📝 I regularly write articles on [https://medium.com/@odhitom09](https://medium.com/@odhitom09)
 
-## Contact Me
+- 💬 Ask me about **AI,Data science,NLP**
 
-📧 You can reach me at odhitom09@gmail.com. I'm always open to interesting data science projects and collaborations!
+- 📫 How to reach me **odhitom09@gmail.com**
 
-## Projects
+- ⚡ Fun fact **I am an avid reader of books,Adventurer and a swimmer**
 
-I have worked on a diverse range of projects that showcase my skills and problem-solving abilities. Here are a few notable examples:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tom-odhiambo-4b89b11a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tom-odhiambo-4b89b11a1/" height="30" width="40" /></a>
+</p>
 
-- **An End-to-End Project on Unemployment Analysis**📊
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-  This project focuses on analyzing unemployment data and deriving valuable insights from it. I utilized various machine learning techniques and data visualization tools to gain a comprehensive understanding of the unemployment trends. You can find the project [here](https://github.com/Jaimboh/Projects/blob/main/An_end_to_end_project_on_Unemployment_analysis.ipynb).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimboh&show_icons=true&locale=en&layout=compact" alt="jaimboh" /></p>
 
-- **Named Entity Recognition (NER) Project**🔍
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimboh&show_icons=true&locale=en" alt="jaimboh" /></p>
 
-  In this project, I implemented a named entity recognition system using state-of-the-art NLP techniques. By leveraging deep learning models, I successfully extracted and classified entities from unstructured text data. You can find the project [here](https://github.com/Jaimboh/Projects/blob/main/Named_Entity_Recognition_(NER)_project.ipynb).
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimboh&" alt="jaimboh" /></p>
 
-For more of my projects, you can visit [my GitHub repository](https://github.com/Jaimboh?tab=repositories). Each project represents a unique challenge and demonstrates my expertise in machine learning and data science.
-
-## Achievements
-
-I continuously strive for personal and professional growth in the field of machine learning and data science. While I do not have specific achievements mentioned in the provided information, I am dedicated to honing my skills and staying updated with the latest advancements in the industry.
-
-## What Sets Me Apart
-
-What sets me apart is my ability to combine technical skills with a strong problem-solving mindset. By staying up-to-date with the latest advancements in machine learning and continuously expanding my knowledge, I ensure that my projects are at the forefront of innovation. I am always eager to collaborate with like-minded professionals on exciting data science projects.
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/tom-odhiambo) and discuss how we can collaborate on data-driven solutions!
-
-For any further information or inquiries, feel free to reach out to me via email.
 
