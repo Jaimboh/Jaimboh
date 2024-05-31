@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@odhitom09](https://medium.com/@odhitom09)
 
-- 💬 Ask me about **AI,Data science,NLP**
+- 💬 Ask me about life
 
 - 📫 How to reach me **odhitom09@gmail.com**
 
-- ⚡ Fun fact **I am an avid reader of books,Adventurer and a swimmer**
+- ⚡ Fun fact **I am an avid reader of books,an optimistic individual ,Adventurer and a swimmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
