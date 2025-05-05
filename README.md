@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom Odhiambo</h1>
-<h3 align="center">I am a dedicated Machine Learning Engineer, Natural Language Processing Engineer, and Data Scientist located in Kenya 🌍. Proficient in Python with a robust grasp of diverse machine learning algorithms and techniques, I specialize in crafting inventive models that propel technological progress.</h3>
+<h3 align="center">I'm a Machine Learning & NLP Engineer based in Kenya 🇰🇪, passionate about building AI-driven solutions. 
+With deep Python expertise and a creative edge, I craft scalable models that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimboh&label=Profile%20views&color=0e75b6&style=flat" alt="jaimboh" /> </p>
 
@@ -13,9 +14,9 @@
 
 - 💬 Ask me about life
 
-- 📫 How to reach me **odhitom09@gmail.com**
+- 📬 Reach me at: [odhitom09@gmail.com](mailto:odhitom09@gmail.com)
 
-- ⚡ Fun fact **I am an avid reader of books,an optimistic individual ,Adventurer and a swimmer**
+- ⚡ Fun fact **📚 Avid reader | 🌍 Adventurer | 💡 Optimist | 🏊 Swimmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
