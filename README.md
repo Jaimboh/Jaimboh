@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom Odhiambo</h1>
-<h3 align="center">Machine Learning & NLP Engineer | AI Engineer | Based in Kenya 🇰🇪</h3>
+<h3 align="center">Machine Learning|NLP| AI Engineer | Based in Kenya 🇰🇪</h3>
 
 <p align="center">
   I'm passionate about building AI-powered solutions that tackle real-world problems. 
