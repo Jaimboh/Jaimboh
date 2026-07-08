@@ -12,24 +12,24 @@
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
-- 🔭 Currently building impactful [AI applications](https://github.com/Jaimboh?tab=repositories)
-- 👯 Open to collaborating on **cutting-edge ML/NLP projects**
-- 🧠 Exploring LLMs, RAG pipelines, MLOps, and AI agent frameworks
-- 🛠️ Automating workflows and deploying AI tools in production
-
----
-
-### 📫 Connect With Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tom-odhiambo-4b89b11a1/)
-- 📬 [Email](mailto:odhitom09@gmail.com)
-- ✍🏾 [Medium](https://medium.com/@odhitom09)
+- Currently building impactful [AI applications](https://github.com/Jaimboh?tab=repositories)
+- Open to collaborating on **cutting-edge ML/NLP projects**
+- Exploring LLMs, RAG pipelines, MLOps, and AI agent frameworks
+- Automating workflows and deploying AI tools in production
 
 ---
 
-### 🧰 Tech Stack
+### Connect With Me
+
+-  [LinkedIn](https://www.linkedin.com/in/tom-odhiambo-4b89b11a1/)
+-  [Email](mailto:odhitom09@gmail.com)
+-  [Medium](https://medium.com/@odhitom09)
+
+---
+
+### Tech Stack
 
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -65,7 +65,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaimboh&show_icons=true&theme=default" />
@@ -78,12 +78,12 @@
 
 ---
 
-### 💡 Fun Facts
+### Fun Facts
 
-- 📚 Avid reader  
-- 🌍 Adventurer  
-- 💡 Eternal optimist  
-- 🏊 Swimmer  
+- Avid reader  
+- Adventurer  
+- Eternal optimist  
+- Swimmer  
 
 ---
 
